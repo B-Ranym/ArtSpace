@@ -43,4 +43,4 @@ Art Space is a simple Android application built with Jetpack Compose that displa
 ## Contact
 Your Name - [ranim.bouchoucha@sesame.com.tn](mailto:your.email@example.com)
 
-Project Link: [https://github.com/B-Ranym/Art-Space](https://github.com/yourusername/art-space)
+Project Link: [https://github.com/B-Ranym/ArtSpace](https://github.com/yourusername/art-space)
