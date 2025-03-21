@@ -40,7 +40,4 @@ Art Space is a simple Android application built with Jetpack Compose that displa
 3. Build and run the application on an emulator or physical device
 
 
-## Contact
-Your Name - [ranim.bouchoucha@sesame.com.tn](mailto:your.email@example.com)
 
-Project Link: [https://github.com/B-Ranym/ArtSpace.git](https://github.com/yourusername/art-space)
